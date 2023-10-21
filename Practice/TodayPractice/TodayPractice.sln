@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodayPractice", "TodayPractice.csproj", "{B7AC360F-AFA1-43DC-9110-37FBE0A080DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "..\Service\Service.csproj", "{D605DB3A-1E2A-4588-AB03-C932B5903158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{46885CA7-40C7-442A-9BC8-C66C24FE5CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7AC360F-AFA1-43DC-9110-37FBE0A080DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7AC360F-AFA1-43DC-9110-37FBE0A080DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7AC360F-AFA1-43DC-9110-37FBE0A080DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7AC360F-AFA1-43DC-9110-37FBE0A080DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D605DB3A-1E2A-4588-AB03-C932B5903158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D605DB3A-1E2A-4588-AB03-C932B5903158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D605DB3A-1E2A-4588-AB03-C932B5903158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D605DB3A-1E2A-4588-AB03-C932B5903158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46885CA7-40C7-442A-9BC8-C66C24FE5CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46885CA7-40C7-442A-9BC8-C66C24FE5CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46885CA7-40C7-442A-9BC8-C66C24FE5CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46885CA7-40C7-442A-9BC8-C66C24FE5CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB422237-B18A-4329-B750-0AFBC36403F2}
+	EndGlobalSection
+EndGlobal

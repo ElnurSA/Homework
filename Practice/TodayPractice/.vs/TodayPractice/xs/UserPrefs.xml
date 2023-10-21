@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B7AC360F-AFA1-43DC-9110-37FBE0A080DE}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TodayPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TodayPractice" expanded="True">
+            <Node name="Domain">
+              <Node name="Models">
+                <Node name="Blog.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Service">
+              <Node name="Services">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TodayPractice">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

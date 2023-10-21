@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FE9D08C5-80B9-4E61-8524-2CCB7639F169}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Tasks PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Services/Services/ProductService.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="39" />
+      <File FileName="../Domain/Models/BaseEntity.cs" Line="7" Column="60" />
+      <File FileName="../Domain/Models/Category.cs" Line="6" Column="21" />
+      <File FileName="../Domain/Models/Product.cs" Line="1" Column="14" />
+      <File FileName="../Services/Services/Interfaces/IProductService.cs" Line="20" Column="1" />
+      <File FileName="../Services/Services/ProductService.cs" Line="16" Column="35" />
+      <File FileName="Controllers/ProductController.cs" Line="69" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tasks" expanded="True">
+            <Node name="Services">
+              <Node name="Services">
+                <Node name="ProductService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Tasks">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
